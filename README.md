@@ -147,12 +147,6 @@ arduino-nfc-parking-barrier/
 
 ---
 
-## Licence
-
-MIT. See [LICENSE](LICENSE).
-
----
-
 ## Author
 
 Fouad Bouabdi-Benaatou  
