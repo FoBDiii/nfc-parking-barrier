@@ -247,3 +247,5 @@ void changeServo() {
 - [Arduino – Servo Motor Basics](https://arduinogetstarted.com/tutorials/arduino-servo-motor)
 
 ---
+
+*Tutorial content adapted from [ArduinoGetStarted.com](https://arduinogetstarted.com) for educational use.*
